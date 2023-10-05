@@ -24,4 +24,6 @@ A Dynamic and Interactive Coffee Sales Dashboard prepared after conducting a tho
 - A Timeline is also used to view sales over time
 
 **Dashboard Preview**
-![image](https://github.com/Yaminah22/CoffeeOrderSalesDashboard/assets/59056513/7becd961-ffc9-418d-93a4-41531ae4f4cc)
+![image](https://github.com/Yaminah22/CoffeeOrderSalesDashboard/assets/59056513/e8ddd29c-4520-46f6-82eb-43b9430bc4dd)
+![image](https://github.com/Yaminah22/CoffeeOrderSalesDashboard/assets/59056513/8ca74800-d88c-4497-a94f-5eabe4467a10)
+
