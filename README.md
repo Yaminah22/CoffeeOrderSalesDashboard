@@ -1,7 +1,7 @@
 # CoffeeOrderSalesDashboard
 A Dynamic and Interactive Coffee Sales Dashboard prepared after conducting a thorough exploratory data analysis
 
-**Tool Used:** Microsot Excel
+**Tool Used:** MS Excel
 
 **Objectives:** 
 1. Uncover Total Sales and Sales trend in a particular period of time.
